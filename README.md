@@ -196,17 +196,8 @@ hongqi-digital-twin-training/
 
 本项目采用 [MIT License](LICENSE) 开源协议。
 
-## 👥 团队成员
 
-- **项目负责人**：[您的姓名] - 长春汽车职业技术大学
-- **技术开发**：[成员2] - 长春汽车职业技术大学
-- **教学应用**：[成员3] - 长春汽车职业技术大学
 
-## 📧 联系方式
-
-- 📮 邮箱：your-email@example.com
-- 🏫 单位：长春汽车职业技术大学
-- 🌐 网站：http://www.your-website.com
 
 ## 🙏 致谢
 
